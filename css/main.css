@@ -282,3 +282,6 @@ body{font-size:16.5px}
 .hero.has-hero:before{background:linear-gradient(90deg,rgba(15,36,29,.92) 0%,rgba(15,36,29,.84) 42%,rgba(15,36,29,.18) 100%)}
 .hero.has-hero .hero-bg{object-position:100% 60%}
 @media(max-width:768px){.hero.has-hero:before{background:linear-gradient(180deg,rgba(15,36,29,.9),rgba(15,36,29,.78))}}
+
+.sec-note{margin:0 0 24px;max-width:70ch}
+.pagehead p a{color:var(--amber);text-decoration:underline;text-underline-offset:3px}
